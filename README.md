@@ -23,6 +23,6 @@
 
 
 
-<img src="SAE_with_loss.png" height="25%" width="25%"/>  |  <img src="siamese_decoder_final_tconv_kernel_display.gif" width="50%" height="50%"/>
+<img src="SAE_with_loss.png" height="60%" width="60%"/>  |  <img src="siamese_decoder_final_tconv_kernel_display.gif" width="50%" height="50%"/>  
 Solarized dark             |  Solarized Ocean
 
