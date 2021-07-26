@@ -14,3 +14,7 @@
         <p>This is image 2</p>
     </div>
 </div>
+
+.imgContainer{
+    float:left;
+}
