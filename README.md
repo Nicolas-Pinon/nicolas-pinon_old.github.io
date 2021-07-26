@@ -24,4 +24,4 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](SAE_with_loss.png | width=100 )  |  ![](siamese_decoder_final_tconv_kernel_display.gif | width=100)
+![](SAE_with_loss.png | width=100)  |  ![](siamese_decoder_final_tconv_kernel_display.gif | width=100)
