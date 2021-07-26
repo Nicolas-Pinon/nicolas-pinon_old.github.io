@@ -1,6 +1,6 @@
 # Nicolas Pinon
 
 
-![siamese_decoder_final_tconv_kernel_display](siamese_decoder_final_tconv_kernel_display.gif)
+<img src="/images/output/video1.gif" width="25%" height="25%"/>
 
 
