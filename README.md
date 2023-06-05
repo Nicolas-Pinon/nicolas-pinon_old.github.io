@@ -1,5 +1,3 @@
-# Nicolas Pinon
-
 Unsupervised Anomaly Detection, MRI
 
 nicolas.pinon[at]creatis.insa-lyon.fr
